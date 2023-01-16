@@ -1,0 +1,66 @@
+C:\Users\giuli\source\repos\LiveScore\LiveScore\bin\Debug\LiveScore.exe.config
+C:\Users\giuli\source\repos\LiveScore\LiveScore\bin\Debug\LiveScore.exe
+C:\Users\giuli\source\repos\LiveScore\LiveScore\bin\Debug\LiveScore.pdb
+C:\Users\giuli\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.AssemblyReference.cache
+C:\Users\giuli\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.SuggestedBindingRedirects.cache
+C:\Users\giuli\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.frmLiveScore.resources
+C:\Users\giuli\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.Properties.Resources.resources
+C:\Users\giuli\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.GenerateResource.cache
+C:\Users\giuli\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.CoreCompileInputs.cache
+C:\Users\giuli\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.exe
+C:\Users\giuli\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.pdb
+C:\Users\Public\repos\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.AssemblyReference.cache
+C:\Users\Public\repos\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\repos\LiveScore\LiveScore\obj\Debug\LiveScore.frmLiveScore.resources
+C:\Users\Public\repos\LiveScore\LiveScore\obj\Debug\LiveScore.Properties.Resources.resources
+C:\Users\Public\repos\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.GenerateResource.cache
+C:\Users\Public\repos\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.CoreCompileInputs.cache
+C:\Users\Public\repos\LiveScore\LiveScore\obj\Debug\LiveScore.exe
+C:\Users\Public\repos\LiveScore\LiveScore\obj\Debug\LiveScore.pdb
+C:\Users\Public\repos\LiveScore\LiveScore\bin\Debug\LiveScore.exe.config
+C:\Users\Public\repos\LiveScore\LiveScore\bin\Debug\LiveScore.exe
+C:\Users\Public\repos\LiveScore\LiveScore\bin\Debug\LiveScore.pdb
+C:\Users\Giulio\Desktop\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.AssemblyReference.cache
+C:\Users\Giulio\Desktop\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giulio\Desktop\LiveScore\LiveScore\obj\Debug\LiveScore.exe
+C:\Users\Giulio\Desktop\LiveScore\LiveScore\obj\Debug\LiveScore.pdb
+C:\Users\Giulio\Desktop\LiveScore\LiveScore\bin\Debug\LiveScore.exe.config
+C:\Users\Giulio\Desktop\LiveScore\LiveScore\bin\Debug\LiveScore.exe
+C:\Users\Giulio\Desktop\LiveScore\LiveScore\bin\Debug\LiveScore.pdb
+C:\Users\Giulio\Desktop\LiveScore\LiveScore\obj\Debug\LiveScore.frmLiveScore.resources
+C:\Users\Giulio\Desktop\LiveScore\LiveScore\obj\Debug\LiveScore.Properties.Resources.resources
+C:\Users\Giulio\Desktop\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.GenerateResource.cache
+C:\Users\Giulio\Desktop\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.CoreCompileInputs.cache
+C:\Users\Marco Dal Fabbro\OneDrive\Desktop\DIO\LiveScore\LiveScore\bin\Debug\LiveScore.exe.config
+C:\Users\Marco Dal Fabbro\OneDrive\Desktop\DIO\LiveScore\LiveScore\bin\Debug\LiveScore.exe
+C:\Users\Marco Dal Fabbro\OneDrive\Desktop\DIO\LiveScore\LiveScore\bin\Debug\LiveScore.pdb
+C:\Users\Marco Dal Fabbro\OneDrive\Desktop\DIO\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.AssemblyReference.cache
+C:\Users\Marco Dal Fabbro\OneDrive\Desktop\DIO\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marco Dal Fabbro\OneDrive\Desktop\DIO\LiveScore\LiveScore\obj\Debug\LiveScore.frmLiveScore.resources
+C:\Users\Marco Dal Fabbro\OneDrive\Desktop\DIO\LiveScore\LiveScore\obj\Debug\LiveScore.Properties.Resources.resources
+C:\Users\Marco Dal Fabbro\OneDrive\Desktop\DIO\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.GenerateResource.cache
+C:\Users\Marco Dal Fabbro\OneDrive\Desktop\DIO\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.CoreCompileInputs.cache
+C:\Users\Marco Dal Fabbro\OneDrive\Desktop\DIO\LiveScore\LiveScore\obj\Debug\LiveScore.exe
+C:\Users\Marco Dal Fabbro\OneDrive\Desktop\DIO\LiveScore\LiveScore\obj\Debug\LiveScore.pdb
+C:\Users\Giulio\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.AssemblyReference.cache
+C:\Users\Giulio\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giulio\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.exe
+C:\Users\Giulio\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.pdb
+C:\Users\Giulio\source\repos\LiveScore\LiveScore\bin\Debug\LiveScore.exe.config
+C:\Users\Giulio\source\repos\LiveScore\LiveScore\bin\Debug\LiveScore.exe
+C:\Users\Giulio\source\repos\LiveScore\LiveScore\bin\Debug\LiveScore.pdb
+C:\Users\Giulio\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.frmLiveScore.resources
+C:\Users\Giulio\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.Properties.Resources.resources
+C:\Users\Giulio\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.GenerateResource.cache
+C:\Users\Giulio\source\repos\LiveScore\LiveScore\obj\Debug\LiveScore.csproj.CoreCompileInputs.cache
+C:\Users\Giulio\source\repos\LiveScore_Keybinds_Foreground\LiveScore\bin\Debug\LiveScore.exe.config
+C:\Users\Giulio\source\repos\LiveScore_Keybinds_Foreground\LiveScore\bin\Debug\LiveScore.exe
+C:\Users\Giulio\source\repos\LiveScore_Keybinds_Foreground\LiveScore\bin\Debug\LiveScore.pdb
+C:\Users\Giulio\source\repos\LiveScore_Keybinds_Foreground\LiveScore\obj\Debug\LiveScore.csproj.AssemblyReference.cache
+C:\Users\Giulio\source\repos\LiveScore_Keybinds_Foreground\LiveScore\obj\Debug\LiveScore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giulio\source\repos\LiveScore_Keybinds_Foreground\LiveScore\obj\Debug\LiveScore.frmLiveScore.resources
+C:\Users\Giulio\source\repos\LiveScore_Keybinds_Foreground\LiveScore\obj\Debug\LiveScore.Properties.Resources.resources
+C:\Users\Giulio\source\repos\LiveScore_Keybinds_Foreground\LiveScore\obj\Debug\LiveScore.csproj.GenerateResource.cache
+C:\Users\Giulio\source\repos\LiveScore_Keybinds_Foreground\LiveScore\obj\Debug\LiveScore.csproj.CoreCompileInputs.cache
+C:\Users\Giulio\source\repos\LiveScore_Keybinds_Foreground\LiveScore\obj\Debug\LiveScore.exe
+C:\Users\Giulio\source\repos\LiveScore_Keybinds_Foreground\LiveScore\obj\Debug\LiveScore.pdb
